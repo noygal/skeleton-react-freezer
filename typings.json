@@ -1,0 +1,11 @@
+{
+  "globalDependencies": {
+    "babelify": "registry:dt/babelify#7.3.0+20160621215837",
+    "browserify": "registry:dt/browserify#12.0.1+20160317120654",
+    "react": "registry:dt/react#0.14.0+20160805125551",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040"
+  },
+  "globalDevDependencies": {
+    "watchify": "registry:dt/watchify#3.7.0+20160621222832"
+  }
+}
